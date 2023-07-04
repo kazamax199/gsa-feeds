@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
