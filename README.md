@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
