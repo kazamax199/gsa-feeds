@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+ultralytics 8.0.228 add training time argument (#7054)
